@@ -18,7 +18,7 @@ Your personal command center for discovering, learning, and mastering shortcutsâ
 
 ## Why?
 Because remembering shortcuts sucks, and jumping between tools to find them is worse.  
-KeyPilot brings them all into one place â€” so you can focus on doing, not Googling.
+KeyPilot brings them all into one place, so you can focus on doing, not Googling.
 
 ## Want to Improve It?
 Clone it, tweak it, break it, ship it.
